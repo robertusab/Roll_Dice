@@ -1,5 +1,6 @@
 package com.obet.rolldice.view
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.obet.rolldice.R

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Roll Dice</string>
+    <string name="login">Login</string>
+    <string name="i_am">I am</string>
+    <string name="your_father">Your Father</string>
+    <string name="score">Score</string>
+    <string name="roll">Roll</string>
+    <string name="username">username</string>
 </resources>
